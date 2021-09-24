@@ -1,0 +1,15 @@
+{
+  "name": "ibm-buttons-generator",
+  "version": "1.0.0",
+  "description": "Gera arquivo de botões do IBM Watson.",
+  "main": "src/index.js",
+  "repository": "https://github.com/frabelo-neoassit/ibm-buttons-generator.git",
+  "author": "Fabricio Pereira Rabelo",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "uuid": "^8.3.2",
+    "yargs": "^17.2.0"
+  }
+}
