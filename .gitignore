@@ -106,5 +106,5 @@ dist
 .tern-port
 
 *.txt
-storage/*.csv
+storage/*.json
 !storage/.gitkeep

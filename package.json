@@ -7,9 +7,12 @@
   "author": "Fabricio Pereira Rabelo",
   "license": "MIT",
   "private": true,
-  "dependencies": {},
+  "scripts": {
+    "buttons": "node ./src/index.js"
+  },
   "devDependencies": {
     "uuid": "^8.3.2",
-    "yargs": "^17.2.0"
+    "yargs": "^17.2.0",
+    "yarn": "^1.22.15"
   }
 }
