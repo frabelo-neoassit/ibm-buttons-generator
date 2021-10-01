@@ -8,7 +8,7 @@ const argv = yargs(hideBin(process.argv)).argv;
 const file = argv.file;
 const encoding = "utf8";
 const filePath = path.join(__dirname, "..", "storage");
-//
+
 if (!fs.existsSync(filePath)) {
   fs.mkdirSync(filePath, { mode: "0755" });
 }
